@@ -4,7 +4,9 @@
 
 </div>
 
-<img width="666" height="375" alt="vbbb-removebg-preview" src="https://github.com/user-attachments/assets/ff4e7eed-7626-4d0d-9eb9-c10e2416ccf5" />
+<p align="center">
+  <img src="<img width="666" height="375" alt="vbbb-removebg-preview" src=https://github.com/user-attachments/assets/ff4e7eed-7626-4d0d-9eb9-c10e2416ccf5" /> style="width:100%; max-width:1100px;">
+</p>
 
 
 
