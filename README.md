@@ -1,11 +1,3 @@
-<!-- ===== TOP (typing) ===== -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=46&duration=2600&pause=900&color=1E2F5C&center=true&vCenter=true&width=1100&height=120&lines=%EA%92%B0+with+this+treasure+i+summon..+%EA%92%B1;%EA%92%B0+ness+%EA%92%B1;%EA%92%B0+bonk+%EA%92%B1" alt="typing header" />
-</p>
-
-<!-- ===== IMAGE (centered) ===== -->
-<p align="center">
-  <img src=![Uploading vbbb-removebg-preview.png…]()
- style="width:100%; max-width:1100px;" alt="collage" />
-</p>![Uploading vbbb-removebg-preview.png…]()
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=40&duration=2800&pause=800&color=7EE7FF&center=true&vCenter=true&width=950&height=100&lines=%EA%92%B0+%F0%9D%91%BE%F0%9D%92%8A%F0%9D%92%95%F0%9D%92%89+%F0%9D%92%95%F0%9D%92%89%F0%9D%92%8A%F0%9D%92%94+%F0%9D%92%95%F0%9D%92%93%F0%9D%92%86%F0%9D%92%82%F0%9D%92%94%F0%9D%92%96%F0%9D%92%93%F0%9D%92%86+%F0%9D%92%8A+%F0%9D%92%94%F0%9D%92%96%F0%9D%92%8E%F0%9D%92%8E%F0%9D%92%90%F0%9D%92%8F..+%EA%92%B1;%EA%92%B0+ness+%EA%92%B1;%EA%92%B0+bonk+%EA%92%B1" />
+</div><img width="666" height="375" alt="vbbb-removebg-preview" src="https://github.com/user-attachments/assets/b2617e7e-71fe-4070-8ca7-0977c4894a48" />
