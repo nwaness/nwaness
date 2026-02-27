@@ -4,8 +4,5 @@
     alt="typing header"
   />
 <p align="center">
-  <img src="</p><img width="666" height="375" alt="vbbb-removebg-preview" src="https://github.com/user-attachments/assets/b1811dc9-35f3-4a11-81cd-5ee4d1d234d4" />
-"
-       width="1000"
-       style="display:block; margin:auto;" />
+  <img src="https://raw.githubusercontent.com/nwaness/nwaness/main/vbbb-removebg-preview.png" width="1000" style="display:block; margin:auto;" />
 </p>
