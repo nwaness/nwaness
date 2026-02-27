@@ -5,6 +5,7 @@
 
 <!-- ===== IMAGE (centered) ===== -->
 <p align="center">
-  <img src="PASTE_YOUR_IMAGE_LINK_HERE" style="width:100%; max-width:1100px;" alt="collage" />
+  <img src=![Uploading vbbb-removebg-preview.png…]()
+ style="width:100%; max-width:1100px;" alt="collage" />
 </p>![Uploading vbbb-removebg-preview.png…]()
 
