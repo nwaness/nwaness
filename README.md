@@ -15,50 +15,37 @@
   />
 
 <div align="center">
-  <table width="1000" cellpadding="0" cellspacing="0" border="0">
-    <tr>
+<table width="1000" cellspacing="0" cellpadding="0">
+<tr>
 
-      <!-- LEFT SIDE -->
-      <td width="55%" valign="middle" align="left" style="padding:40px 20px;">
+<td width="55%" valign="middle" align="left">
 
-        <div style="font-family: Georgia, serif; line-height:1.9;">
+<h3>୨୧ ˖ ηєѕѕ'ѕ ! ᑯα𝗍α ⸝⸝</h3>
 
-          <div style="font-size:24px; font-weight:900;">
-            ୨୧ ˖ ηєѕѕ'ѕ ! ᑯα𝗍α ⸝⸝
-          </div>
+<i>𝒈𝒆𝒕 𝒕𝒐 𝒌𝒏𝒐𝒘 𝒎𝒆 !</i>
 
-          <div style="margin-top:8px; font-size:18px; font-style:italic;">
-            Get to know about me !
-          </div>
+<br><br>
 
-          <br>
+୭ ηєѕѕ ' ιѕяα <br>
+୭ 𝒑𝒓𝒏𝒔 ; 𝒔𝒉𝒆 ' 𝒕𝒉𝒆𝒚 <br><br>
 
-          ୭ ness ' isra <br>
-          ୭ prns ; she ' her <br><br>
+୭ <i>ƒαη∂σмѕ!</i>  
+<i>𝒍𝒊𝒎𝒃𝒖𝒔 𝒄𝒐𝒎𝒑𝒂𝒏𝒚, 𝒕𝒐𝒌𝒚𝒐 𝒈𝒉𝒐𝒖𝒍, 𝒃𝒍𝒂𝒄𝒌 𝒃𝒖𝒕𝒍𝒆𝒓, 𝒋𝒋𝒌, 𝒄𝒔𝒎, 𝒃𝒍𝒍𝒌</i>
+<br><br>
+              ❀ 𝒕𝒉𝒆 𝒇𝒍𝒐𝒘𝒆𝒓 𝒃𝒍𝒐𝒐𝒎𝒔 𝒘𝒊𝒕𝒉 𝒅𝒊𝒈𝒏𝒊𝒕𝒚 ❀
 
-          ୭ <i>fandoms!</i> 
-          <i>limbus company, tokyo ghoul, black butler, jjk, csm, bllk</i>
+──⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔
 
-          <br><br>
+</td>
 
-          ──⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔
+<td width="45%" valign="middle" align="center">
 
-        </div>
+<img src="https://github.com/user-attachments/assets/18233e81-4040-4cd7-ad20-39938ed2d943" width="420" alt="cielneed" />
 
-      </td>
+</td>
 
-      <!-- RIGHT SIDE IMAGE -->
-      <td width="45%" valign="middle" align="center" style="padding:40px 20px;">
-        <img 
-          src="https://github.com/user-attachments/assets/18233e81-4040-4cd7-ad20-39938ed2d943"
-          width="420"
-          style="border-radius:18px;"
-          alt="cielneed"
-        />
-      </td>
-
-    </tr>
-  </table>
+</tr>
+</table>
 </div>
 
   <!-- BOTTOM GIF -->
