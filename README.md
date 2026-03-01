@@ -4,54 +4,61 @@
     alt="typing header"
 <br>
 
-<!-- TOP GIF -->
+<!-- TOP GIF (banner style) -->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/19bc36bf-474a-4dca-9546-b55096abf544"
-       style="width:100%; max-width:900px; display:block; margin:auto;" />
+       style="width:100%; max-width:1000px; height:260px; object-fit:cover; display:block; margin:auto; border-radius:14px;" />
 </p>
 
 <br><br>
 
-<!-- ABOUT SECTION -->
-<table align="center" width="1000">
-<tr>
+<!-- ABOUT CARD (combined text + image) -->
+<table align="center" width="1000" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
+  <tr>
+    <!-- LEFT: TEXT -->
+    <td width="55%" align="center" valign="middle" style="padding:26px 18px;">
+      <div style="font-family: Georgia, serif; line-height:1.7;">
+        <div style="font-size:22px; font-weight:700;">
+          ୨୧ ˖ ηєѕѕ'ѕ ! ᑯα𝗍α ⸝⸝
+        </div>
 
-<td width="55%" align="center" valign="middle">
+        <div style="margin-top:6px; font-style:italic; font-size:16px;">
+          𝑮𝒆𝒕 𝒕𝒐 𝒌𝒏𝒐𝒘 𝒎𝒆 !
+        </div>
 
-<h3>୨୧ ˖ ηєѕѕ'ѕ ! ᑯα𝗍α ⸝⸝</h3>
+        <br>
 
-<i>𝑮𝒆𝒕 𝒕𝒐 𝒌𝒏𝒐𝒘 𝒎𝒆 !</i>
+        <div style="font-size:15px;">
+          ୭ <span style="font-style:italic;">ness isra</span><br>
+          ୭ <span style="font-style:italic;">prns ; she ' her</span><br>
+          ୭ <span style="font-style:italic;">fandoms!</span>
+          <span style="font-style:italic;">
+            limbus company, tokyo ghoul, black butler, jjk, csm, bllk
+          </span>
+        </div>
 
-<br><br>
+        <br>
 
-୭ ηєѕѕ'ιѕяα  
-<br>
-୭ ρ𝗋𐓣𝗌 ; 𝗌ɦ𝖾 ' ɦ𝖾𝗋  
-<br>
-୭ ƒαη∂σмѕ! 𝒍𝒊𝒎𝒃𝒖𝒔 𝒄𝒐𝒎𝒑𝒂𝒏𝒚, 𝒕𝒐𝒌𝒚𝒐 𝒈𝒉𝒐𝒖𝒍, 𝒃𝒍𝒂𝒄𝒌 𝒃𝒖𝒕𝒍𝒆𝒓, 𝒋𝒋𝒌, 𝒄𝒔𝒎, 𝒃𝒍𝒍𝒌
+        <div style="font-size:14px;">
+          ──⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔──
+        </div>
+      </div>
+    </td>
 
-<br><br>
-
-──⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔──
-
-</td>
-
-<td width="45%" align="center" valign="middle">
-
-<img src="<img width="500" height="500" alt="cielneed" src="https://github.com/user-attachments/assets/7d1cf9b2-1da8-4159-b91b-afd51ac3b9bb" />"
-     style="max-width:350px; width:100%; display:block; margin:auto;" />
-
-</td>
-
-</tr>
+    <!-- RIGHT: IMAGE -->
+    <td width="45%" align="center" valign="middle" style="padding:26px 18px;">
+      <img src="<img width="500" height="500" alt="cielneed" src="https://github.com/user-attachments/assets/18233e81-4040-4cd7-ad20-39938ed2d943" />"
+           style="width:100%; max-width:360px; display:block; margin:auto; border-radius:16px;" />
+    </td>
+  </tr>
 </table>
 
 <br><br>
 
-<!-- BOTTOM GIF -->
+<!-- BOTTOM GIF (banner style) -->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9b91d2c6-a7e7-4f14-8613-95dc3da3b9c5"
-       style="width:100%; max-width:900px; display:block; margin:auto;" />
+       style="width:100%; max-width:1000px; height:260px; object-fit:cover; display:block; margin:auto; border-radius:14px;" />
 </p>
 
 <br>
