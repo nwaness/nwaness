@@ -14,23 +14,55 @@
     alt="top banner"
   />
 
-  <br><br>
+<div align="center">
 
-|  |  |
-|---|---|
-| **୨୧ ˖ ηєѕѕ'ѕ ! ᑯα𝗍α ⸝⸝**  <br><br> *𝑮𝒆𝒕 𝒕𝒐 𝒌𝒏𝒐𝒘 𝒎𝒆 !* <br><br> ୭ ηєѕѕ&nbsp;&nbsp;ιѕяα <br> ୭ ρ𝗋𐓣𝗌 ; 𝗌ɦ𝖾 ' ɦ𝖾𝗋 <br><br> ୭ **ƒαη∂σмѕ!** *𝒍𝒊𝒎𝒃𝒖𝒔 𝒄𝒐𝒎𝒑𝒂𝒏𝒚, 𝒕𝒐𝒌𝒚𝒐 𝒈𝒉𝒐𝒖𝒍, 𝒃𝒍𝒂𝒄𝒌 𝒃𝒖𝒕𝒍𝒆𝒓, 𝒋𝒋𝒌, 𝒄𝒔𝒎, 𝒃𝒍𝒍𝒌* <br><br> ──⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔ | <img width="420" alt="cielneed" src="https://github.com/user-attachments/assets/18233e81-4040-4cd7-ad20-39938ed2d943" /> |
+  <table width="1000" cellpadding="0" cellspacing="0" border="0">
+    <tr>
 
-      <!-- RIGHT: IMAGE -->
-      <td width="45%" align="center" valign="middle" style="padding:32px 18px;">
-        <img
+      <!-- LEFT SIDE -->
+      <td width="55%" valign="middle" align="left" style="padding:40px 20px;">
+
+        <div style="font-family: Georgia, serif; line-height:1.9;">
+
+          <div style="font-size:24px; font-weight:900;">
+            ୨୧ ˖ ηєѕѕ'ѕ ! ᑯα𝗍α ⸝⸝
+          </div>
+
+          <div style="margin-top:8px; font-size:18px; font-style:italic;">
+            Get to know about me !
+          </div>
+
+          <br>
+
+          ୭ ness ' isra <br>
+          ୭ prns ; she ' her <br><br>
+
+          ୭ <i>fandoms!</i> 
+          <i>limbus company, tokyo ghoul, black butler, jjk, csm, bllk</i>
+
+          <br><br>
+
+          ──⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔
+
+        </div>
+
+      </td>
+
+      <!-- RIGHT SIDE IMAGE -->
+      <td width="45%" valign="middle" align="center" style="padding:40px 20px;">
+
+        <img 
           src="https://github.com/user-attachments/assets/18233e81-4040-4cd7-ad20-39938ed2d943"
           width="420"
-          style="display:block; margin:0 auto; border-radius:18px;"
+          style="border-radius:18px;"
           alt="cielneed"
         />
+
       </td>
+
     </tr>
   </table>
+
 </div>
 
   <!-- BOTTOM GIF -->
