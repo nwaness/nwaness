@@ -16,42 +16,9 @@
 
   <br><br>
 
- <!-- ABOUT + IMAGE (side-by-side) -->
-<div align="center" style="max-width:1100px; margin:0 auto;">
-  <table width="1100" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
-    <tr>
-      <!-- LEFT: ABOUT TEXT -->
-      <td width="55%" align="center" valign="middle" style="padding:32px 18px;">
-        <div style="font-family: Georgia, serif; line-height:1.8;">
-
-          <div style="font-size:24px; font-weight:900;">
-            ୨୧ ˖ ηєѕѕ'ѕ ! ᑯα𝗍α ⸝⸝
-          </div>
-
-          <div style="margin-top:8px; font-size:18px; font-style:italic;">
-            𝑮𝒆𝒕 𝒕𝒐 𝒌𝒏𝒐𝒘 𝒎𝒆 !
-          </div>
-
-          <br>
-
-          <div style="font-size:16px;">
-            ୭ ηєѕѕ&nbsp;&nbsp;ιѕяα <br>
-            ୭ ρ𝗋𐓣𝗌 ; 𝗌ɦ𝖾 ' ɦ𝖾𝗋 <br><br>
-
-            ୭ ƒαη∂σмѕ! 
-            <span style="font-style:italic;">
-              𝒍𝒊𝒎𝒃𝒖𝒔 𝒄𝒐𝒎𝒑𝒂𝒏𝒚, 𝒕𝒐𝒌𝒚𝒐 𝒈𝒉𝒐𝒖𝒍, 𝒃𝒍𝒂𝒄𝒌 𝒃𝒖𝒕𝒍𝒆𝒓, 𝒋𝒋𝒌, 𝒄𝒔𝒎, 𝒃𝒍𝒍𝒌
-            </span>
-          </div>
-
-          <br>
-
-          <div style="font-size:14px;">
-            ──⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔
-          </div>
-
-        </div>
-      </td>
+|  |  |
+|---|---|
+| **୨୧ ˖ ηєѕѕ'ѕ ! ᑯα𝗍α ⸝⸝**  <br><br> *𝑮𝒆𝒕 𝒕𝒐 𝒌𝒏𝒐𝒘 𝒎𝒆 !* <br><br> ୭ ηєѕѕ&nbsp;&nbsp;ιѕяα <br> ୭ ρ𝗋𐓣𝗌 ; 𝗌ɦ𝖾 ' ɦ𝖾𝗋 <br><br> ୭ **ƒαη∂σмѕ!** *𝒍𝒊𝒎𝒃𝒖𝒔 𝒄𝒐𝒎𝒑𝒂𝒏𝒚, 𝒕𝒐𝒌𝒚𝒐 𝒈𝒉𝒐𝒖𝒍, 𝒃𝒍𝒂𝒄𝒌 𝒃𝒖𝒕𝒍𝒆𝒓, 𝒋𝒋𝒌, 𝒄𝒔𝒎, 𝒃𝒍𝒍𝒌* <br><br> ──⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔ | <img width="420" alt="cielneed" src="https://github.com/user-attachments/assets/18233e81-4040-4cd7-ad20-39938ed2d943" /> |
 
       <!-- RIGHT: IMAGE -->
       <td width="45%" align="center" valign="middle" style="padding:32px 18px;">
