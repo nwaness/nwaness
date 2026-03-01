@@ -15,7 +15,6 @@
   />
 
 <div align="center">
-
   <table width="1000" cellpadding="0" cellspacing="0" border="0">
     <tr>
 
@@ -50,19 +49,16 @@
 
       <!-- RIGHT SIDE IMAGE -->
       <td width="45%" valign="middle" align="center" style="padding:40px 20px;">
-
         <img 
           src="https://github.com/user-attachments/assets/18233e81-4040-4cd7-ad20-39938ed2d943"
           width="420"
           style="border-radius:18px;"
           alt="cielneed"
         />
-
       </td>
 
     </tr>
   </table>
-
 </div>
 
   <!-- BOTTOM GIF -->
